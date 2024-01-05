@@ -1,8 +1,11 @@
-Secret Auction
-Description
+# Secret Auction
+
+### Description
+ 
 This Python program implements a secret auction where users can place bids anonymously, and the winner with the highest bid is revealed at the end of the auction.
 
-Features
+### Features
+
 Users can enter their name and bid amount.
 Bids are stored in a dictionary.
 The program finds and displays the winner with the highest bid.
